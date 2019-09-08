@@ -1,0 +1,5 @@
+Soduko:   soduko solver class. First, identifies unique options for given cell by margin (row, column, sub-grid).
+          If unable to solve, then moves on to brute-force guesses of valid a given row combination.
+          
+Probabilistic Bias Analysis:  Shiny webapp to perform probabilistic bias analysis for scenario of 
+                              information bias (missclassification) or user-inputted scenario
